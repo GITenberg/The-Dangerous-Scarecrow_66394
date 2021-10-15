@@ -1,0 +1,23 @@
+_repo: The-Dangerous-Scarecrow_66394
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jacobi, Carl
+    alias: Jacobi, Carl Richard
+    birthdate: 1908
+    deathdate: 1997
+    gutenberg_agent_id: '25187'
+    url: http://www.gutenberg.org/2009/agents/25187
+    wikipedia: https://en.wikipedia.org/wiki/Carl_Richard_Jacobi
+description: ''
+gutenberg_issued: '2021-09-27'
+identifiers:
+  gutenberg: '66394'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Dangerous Scarecrow
+url: http://www.gutenberg.org/ebooks/66394
