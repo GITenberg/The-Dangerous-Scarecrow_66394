@@ -1,5 +1,8 @@
 _repo: The-Dangerous-Scarecrow_66394
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66394-h/images/cover.jpg
 creator:
   author:
     agent_name: Jacobi, Carl
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25187
     wikipedia: https://en.wikipedia.org/wiki/Carl_Richard_Jacobi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66394#The-Dangerous-Scarecrow
 gutenberg_issued: '2021-09-27'
 identifiers:
   gutenberg: '66394'
